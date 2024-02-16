@@ -9,9 +9,6 @@ This tutorial showcases the process and installation of the Hyper-V manager for 
 <br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
